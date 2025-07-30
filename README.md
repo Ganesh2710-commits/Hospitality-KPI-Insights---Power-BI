@@ -7,6 +7,10 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 This project presents a **Power BI dashboard** analyzing key revenue and performance metrics for a hotel property. It is designed to support hotel managers, owners, and stakeholders in understanding business health through essential KPIs.
 
+## 📷 Power BI Dashboard Preview
+
+![Dashboard Preview](https://github.com/Ganesh2710-commits/Hospitality-KPI-Insights---Power-BI/blob/f71dbfda510542c4f800ee385785eb728eb283e4/Hospitality%20Dashboard.png?raw=true)
+
 ---
 
 **Problem Statement**
