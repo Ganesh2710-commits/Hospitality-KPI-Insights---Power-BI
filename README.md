@@ -126,6 +126,6 @@ This dashboard enables decision-makers to:
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Detailed Dashboard
 
 > See the PDF file `First Power BI Project.pdf` for a full view of the dashboard.
