@@ -33,6 +33,16 @@ To build a clear and interactive dashboard that visualizes:
 | `Hospitality KPI Insights - Power BI.pbit` | Power BI template (without data) |
 | `Hospitality Power BI Project.pdf` | Exported PDF of the dashboard for previewing without Power BI |
 
+
+**Raw Business Data used for performing the project** - 
+
+1. dim_date.csv
+2. dim_hotels.csv
+3. dim_rooms.csv
+4. fact_aggregated_bookings.csv
+5. fact_bookings.csv
+6. metrics list.xlsx
+
 ---
 
 ## 📈 Key Metrics Tracked
