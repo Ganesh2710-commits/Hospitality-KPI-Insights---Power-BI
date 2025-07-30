@@ -31,7 +31,7 @@ To build a clear and interactive dashboard that visualizes:
 |------|-------------|
 | `Hospitality KPI Insights - Power BI.pbix` | Main Power BI report file |
 | `Hospitality KPI Insights - Power BI.pbit` | Power BI template (without data) |
-| `First Power BI Project.pdf` | Exported PDF of the dashboard for previewing without Power BI |
+| `Hospitality Power BI Project.pdf` | Exported PDF of the dashboard for previewing without Power BI |
 
 ---
 
